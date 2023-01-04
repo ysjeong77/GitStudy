@@ -2,7 +2,7 @@
 
 int main(){
     printf("hello world!\n");
-    printf("hello git!\n");
+    // 버스 픽스중
 
     return 0;
 }

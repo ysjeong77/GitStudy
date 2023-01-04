@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
-    printf("hello study\n");
-    
+    printf("hello world!\n");
+    printf("hello git!\n");
 
     return 0;
 }
